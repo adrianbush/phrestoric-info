@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: 000000;
+  color:black;
+  font-size: 30px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}  
+
+img5{
+  width: 100;
+  height: auto;
+}  
+
+img5 {
+  border-radius: 50%;
+}
+ img3 {
+  max-width: 100%;
+  height: auto;
+ }
+logo1 {
+  max-width: 100%;
+  height: auto;
+ }
+logo {
+  max-width: 100%;
+  height: auto;
+ }
+pic {
+  max-width: 100%;
+  height: auto;
+ }
+
+.contact-img {
+  width: 100%;
+}
+.about-img {
+  width: 100%;
+}
+.index-pic {
+  width: 100%;
+}
